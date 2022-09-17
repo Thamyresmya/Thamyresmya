@@ -2,7 +2,7 @@
 ## Olá! Eu sou a Thamyres Cavalcante
 
 - 🔭 Estou estudando Ciência da Computação
-- 🌱 Hoje foca na liguagem Java
+- 🌱 Focada na linguagem Java
 - 👯 Faço parte de um grupo de estudo com várias senioridades
 
  <div align="center">
