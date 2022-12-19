@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou a Thamyres Cavalcante </h1>     
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71ED4&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=300&duration=4000&pause=1000&color=F744B2&center=true&vCenter=true&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
 - 🔭 Cursando Faculdade de Ciência da Computação
 - 🌱 Focada na linguagem Java | Python
