@@ -1,11 +1,28 @@
 
 <h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou a Thamyres </h1>     
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!!)](https://git.io/typing-svg)
+
 
 - 🔭 Cursando Faculdade de Ciência da Computação
 - 🌱 Focada na linguagem Java | Python
 - 👯 Faço parte de um grupo de estudo com várias senioridades
+
+<br>
+
+Busco aprimorar meus conhecimento através das plataformas da Alura, Curso em Vídeo e Dio.me. Faço parte de um grupo de estudo com foco em tecnologia, onde recebo mentoria de profissionais que utilizam da Metodologia Ágil (Daily Meeting) e o Trello para organização e entrega de conteúdo. 
+
+<h3 align="center">Outras Formações e Experiência:</h3>
+Sou formada em Gestão Financeira. <br>
+E tenho experiência nas áreas de: <br>
+Dep. Pessoal, Financeiro, Logística e Sistema de Gestão da Qualidade - Interpretação e Implementação da NBR ISO 9001:2015.
+
+<br>
+<br>
+<br>
+
+
 
 <div align="center">
   <a href="https://github.com/Thamyresmya">
