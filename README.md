@@ -6,16 +6,16 @@
 
 
 - 🔭 Cursando Faculdade de Ciência da Computação
-- 🌱 Focada na linguagem Java | Python
-- 👯 Faço parte de um grupo de estudo com várias senioridades
+- 🌱 Focada na linguagem Java & Python
+- 👯 Faço parte do grupo Go Ahead
 
 <br>
 
 Busco aprimorar meus conhecimento através das plataformas da Alura, Curso em Vídeo e Dio.me. Faço parte de um grupo de estudo com foco em tecnologia, onde recebo mentoria de profissionais que utilizam da Metodologia Ágil (Daily Meeting) e o Trello para organização e entrega de conteúdo. 
 
 <h3 align="center">Outras Formações e Experiência:</h3>
-Sou formada em Gestão Financeira. <br>
-E tenho experiência nas áreas de: <br>
+Formada em Gestão Financeira. <br>
+Tenho experiência nas áreas de: <br>
 Dep. Pessoal, Financeiro, Logística e Sistema de Gestão da Qualidade - Interpretação e Implementação da NBR ISO 9001:2015.
 
 <br>
