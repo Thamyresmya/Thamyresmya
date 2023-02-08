@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou a Thamyres </h1>     
+<h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou a Thamyres </h1>     
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!!)](https://git.io/typing-svg)
@@ -8,6 +8,7 @@
 - 🔭 Cursando Faculdade de Ciência da Computação
 - 🌱 Focada na linguagem Java & Python
 - 👯 Faço parte do grupo Go Ahead
+- 📫 Contate-me no e-mail: thamyrescavalcantesousa@gmail.com
 
 <br>
 
@@ -47,8 +48,9 @@ Dep. Pessoal, Financeiro, Logística e Sistema de Gestão da Qualidade - Interpr
   <div> 
   <h3 align="center">Entre em contato:</h3>
   <div align="center"><br>  
-  <a href="https://www.instagram.com/thamyresmya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thamyres__cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thamyrescavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:thamyrescavalcantesousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <div>   
   
   ![Snake animation](https://github.com/thamyresmya/thamyresmya/blob/output/github-contribution-grid-snake.svg)
