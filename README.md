@@ -11,14 +11,22 @@
 - 📫 Contate-me no e-mail: thamyrescavalcantesousa@gmail.com
 
 <br>
-
-Busco aprimorar meus conhecimento através das plataformas da Alura, Curso em Vídeo e Dio.me. Faço parte de um grupo de estudo com foco em tecnologia, onde recebo mentoria de profissionais que utilizam da Metodologia Ágil (Daily Meeting) e o Trello para organização e entrega de conteúdo. 
+<div align="justify">
+Sou uma profissional em constante aprendizado, entusiasta ao desenvolvimento de software, estou realizando transição de carreira, cursando faculdade de Ciência da Computação.
+Tenho experiência em Sistema de Gestão da Qualidade - NBR ISO 9001:2015, com isso realizo meus projetos visando sempre a excelência, satisfação do usuário e compromisso nos prazos de entrega.
+Faço parte de um grupo de estudos chamado Go Ahead cujo objetivo é formar profissionais para o mercado de trabalho. Nosso grupo foca no aprendizado sobre Java e suas aplicações, utilizando metodologias ágeis de desenvolvimento de software como Scrum, Daily meeting e o Trello para organização e entrega de conteúdo.
+</div>
 
 <h3 align="center">Outras Formações e Experiência:</h3>
-Formada em Gestão Financeira. <br>
-Tenho experiência nas áreas de: <br>
-Dep. Pessoal, Financeiro, Logística e Sistema de Gestão da Qualidade - Interpretação e Implementação da NBR ISO 9001:2015.
+Formada em Gestão Financeira. <br> <br>
 
+Tenho experiência nas áreas de: <br>
+<ul>
+  <li> Dep. Pessoal</li>
+  <li> Financeiro</li>
+  <li> Logística </li>
+  <li> Sistema de Gestão da Qualidade - Interpretação e Implementação da NBR ISO 9001:2015.</li>
+<ul>
 <br>
 <br>
 <br>
