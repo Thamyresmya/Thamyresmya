@@ -10,9 +10,9 @@
 
 <br>
 <div align="justify">
-Sou uma profissional em constante aprendizado, entusiasta ao desenvolvimento de software, estou realizando transição de carreira, cursando faculdade de Ciência da Computação.
+Sou uma profissional em constante aprendizado, entusiasta ao desenvolvimento de software, estou realizando transição de carreira, cursando faculdade de Ciência da Computação. 
+Faço parte de um grupo de estudos chamado Go Ahead, cujo objetivo é formar profissionais para o mercado de trabalho. Nosso grupo foca no aprendizado sobre Java e suas aplicações, utilizando metodologias ágeis de desenvolvimento de software como Scrum, Daily meeting e o Trello para organização e entrega de conteúdo. 
 Tenho experiência em Sistema de Gestão da Qualidade - NBR ISO 9001:2015, com isso realizo meus projetos visando sempre a excelência, satisfação do usuário e compromisso nos prazos de entrega.
-Faço parte de um grupo de estudos chamado Go Ahead cujo objetivo é formar profissionais para o mercado de trabalho. Nosso grupo foca no aprendizado sobre Java e suas aplicações, utilizando metodologias ágeis de desenvolvimento de software como Scrum, Daily meeting e o Trello para organização e entrega de conteúdo.
 </div>
 
 <h3 align="center">Outras Formações e Experiência:</h3>
