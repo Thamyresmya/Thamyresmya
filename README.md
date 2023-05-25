@@ -35,12 +35,9 @@ Tenho experiência nas áreas de: <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamyresmya&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
  
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thamyres&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thamyres&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamyres&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
-  
+
   
   
   
