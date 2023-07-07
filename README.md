@@ -3,44 +3,45 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!!)](https://git.io/typing-svg)
 
-- 🔭 Cursando Faculdade de Ciência da Computação
 - 🌱 Desenvolvedor Java Jr.
+- 🔭 Cursando Faculdade de Ciência da Computação
 - 👯 Faço parte do grupo Go Ahead
 - 📫 Contate-me no e-mail: thamyrescavalcantesousa@gmail.com
 - Meu currículo: [link](https://drive.google.com/file/d/1UjeBwiSMyZWwISh80T0VYNLdkH-WgJMl/view)
 
 <br>
+
 <div align="justify">
 Sou uma profissional em constante aprendizado, entusiasta ao desenvolvimento de software, estou realizando transição de carreira, cursando faculdade de Ciência da Computação. 
 Faço parte de um grupo de estudos chamado Go Ahead, cujo objetivo é formar profissionais para o mercado de trabalho. Nosso grupo foca no aprendizado sobre Java e suas aplicações, utilizando metodologias ágeis de desenvolvimento de software como Scrum, Daily meeting e o Trello para organização e entrega de conteúdo. 
 Tenho experiência em Sistema de Gestão da Qualidade - NBR ISO 9001:2015, com isso realizo meus projetos visando sempre a excelência, satisfação do usuário e compromisso nos prazos de entrega.
 </div>
 
-<h3 align="center">Outras Formações e Experiência:</h3>
-Formada em Gestão Financeira. <br> <br>
+<h3>Educação:</h3>
+2021-2024 | Graduação em Ciência da Computação<br>
+Faculdade Cruzeiro do Sul Virtual<br><br>
 
-Tenho experiência nas áreas de: <br>
+2006-2007 | Curso Superior de Tecnologia (CST), Gestão Financeira<br>
+Faculdade de Tecnologia de Ipatinga - Fatec<br>
+
+<h3>Experiência:</h3>
 <ul>
+  <li> Sistema de Gestão da Qualidade - Interpretação e Implementação da NBR ISO 9001:2015.</li>
   <li> Dep. Pessoal</li>
   <li> Financeiro</li>
-  <li> Logística </li>
-  <li> Sistema de Gestão da Qualidade - Interpretação e Implementação da NBR ISO 9001:2015.</li>
+  <li> Logística </li>  
 <ul>
-<br>
-<br>
-<br>
+
+<br><br>
 
 <div align="center">
   <a href="https://github.com/Thamyresmya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamyresmya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamyresmya&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
- 
+</div>  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thamyres&theme=dark&hide_border=false)<br/>
 
-  
-  
   
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
