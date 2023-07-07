@@ -4,9 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+em+forma%C3%A7%C3%A3o!!)](https://git.io/typing-svg)
 
 - 🔭 Cursando Faculdade de Ciência da Computação
-- 🌱 Desenvolvedora Back-End Java & Python
+- 🌱 Desenvolvedor Java Jr.
 - 👯 Faço parte do grupo Go Ahead
 - 📫 Contate-me no e-mail: thamyrescavalcantesousa@gmail.com
+- Meu currículo: [link](https://drive.google.com/file/d/1UjeBwiSMyZWwISh80T0VYNLdkH-WgJMl/view)
 
 <br>
 <div align="justify">
