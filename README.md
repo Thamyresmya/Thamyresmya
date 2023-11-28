@@ -6,7 +6,7 @@
 - 🌱 Desenvolvedor Java Jr.
 - 🔭 Cursando Faculdade de Ciência da Computação
 - 👯 Faço parte do grupo Go Ahead
-- 📫 Contate-me no e-mail: thamyrescavalcantesousa@gmail.com
+- 📫 Contate-me pelo e-mail: thamyrescavalcantesousa@gmail.com
 - Meu currículo: [link](https://drive.google.com/file/d/1UjeBwiSMyZWwISh80T0VYNLdkH-WgJMl/view)
 
 <br>
