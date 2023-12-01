@@ -1,7 +1,11 @@
 
 <h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Eu sou a Thamyres </h1>     
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+Jr.!!)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=F72281&center=true&Center=true&width=435&lines=Desenvolvedora+Back-end+Jr.)](https://git.io/typing-svg)
+
+</div>
 
 - 🌱 Desenvolvedor Java Jr.
 - 🔭 Cursando Faculdade de Ciência da Computação
